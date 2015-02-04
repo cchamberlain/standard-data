@@ -1,0 +1,27 @@
+{
+  "name": "standard-data",
+  "version": "0.0.0",
+  "authors": [
+    "Cole Chamberlain <cole.chamberlain@gmail.com>"
+  ],
+  "description": "Data related directives and services for standard libraries.",
+  "main": ["./standard-data.js", "./templates/standard-data.html", "./templates/standard-data-config.html"],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "standard",
+    "data",
+    "directives",
+    "services"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
