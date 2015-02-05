@@ -5,7 +5,7 @@
     "Cole Chamberlain <cole.chamberlain@gmail.com>"
   ],
   "description": "Data related directives and services for standard libraries.",
-  "main": ["./standard-data.js", "./templates/standard-data.html", "./templates/standard-data-config.html"],
+  "main": ["./standard-data.js", "./standard-data.js.map", "./templates/standard-data.html", "./templates/standard-data-config.html"],
   "moduleType": [
     "es6"
   ],
